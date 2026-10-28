@@ -64,6 +64,6 @@ Question → TF-IDF vector → Chroma search → Top 3 facts → Prompt → Deep
    ```
 
 ## 👥 Individual Contribution
-* **Project Type:** * Individual / Course assignment *
-* **My Role:** * Building the knowledge base, creating the vector store in Chroma, writing the retrieval and prompt-building functions, connecting the DeepSeek API, and documenting the results.
+* **Project Type:** Individual / Course assignment
+* **My Role:** Building the knowledge base, creating the vector store in Chroma, writing the retrieval and prompt-building functions, connecting the DeepSeek API, and documenting the results.
 
