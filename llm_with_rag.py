@@ -1,11 +1,3 @@
-"""
-rag_utils.py
-
-Once you've completed and tested Parts 1-5 in the assignment notebook,
-paste your finished code into the matching sections below. This file is
-what your Streamlit app (app.py) will import from.
-"""
- 
 import os
 import chromadb
 from sklearn.feature_extraction.text import TfidfVectorizer
